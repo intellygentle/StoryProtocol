@@ -3,6 +3,7 @@
 ## Clone repo
 ```
 git clone https://github.com/intellygentle/StoryProtocol.git
+cd StoryProtocol
 ```
 
 ## Install Foundry 
